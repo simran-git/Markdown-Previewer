@@ -1,5 +1,5 @@
 
-![Markdown Previewer](/.jpg?raw=true 
+![Markdown Previewer](Preview.png?raw=true )
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
